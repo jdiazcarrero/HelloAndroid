@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/jaimediazcarrero/Workspace/AndroidStudioProjects/android-part1/HelloAndroid/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello">Hello World, HelloAndroid!</string>
+</resources>
